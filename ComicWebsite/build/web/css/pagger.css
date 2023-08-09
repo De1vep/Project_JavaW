@@ -1,0 +1,14 @@
+.pagg a{
+    border-width: 1px;
+  border-style: solid;
+    border-color: blue;
+    margin-left: 2px;
+    padding:2px;
+    /*text-decoration: none;*/
+}
+.pagg span{
+    font-weight: bold;
+    margin-left: 2px;
+    padding:2px;
+    /*text-decoration: none;*/
+}

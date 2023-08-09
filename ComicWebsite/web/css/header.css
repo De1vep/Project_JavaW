@@ -1,0 +1,18 @@
+.dropdown:hover>.dropdown-menu {
+    display: block;
+    
+}
+
+.dropdown>.dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}
+
+.wrapperr {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    /*height: 150px;*/
+    /*text-align: center;*/
+}
+
